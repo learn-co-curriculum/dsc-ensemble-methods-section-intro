@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 32 and why they'll be important to you as a data scientist.
+This lesson summarizes the topics we'll be covering in section 35 and why they'll be important to you as a data scientist.
 
 ## Objectives
 You will be able to:
@@ -25,7 +25,7 @@ We then look at random forests - an ensemble method for decision trees that take
 
 ### GridsearchCV
 
-In the last section we introduced some of the common hyperparameters for tuning a decision tree. In this lesson we look at how you can use GridsearchCV to perform an exhaustive search across multiple hyperparameters and multiple possible values to come up with a better performing model.
+In the last section we introduced some of the common hyperparameters for tuning a decision tree. In this lesson we look at how you can use GridSearchCV to perform an exhaustive search across multiple hyperparameters and multiple possible values to come up with a better performing model.
 
 ### Gradient Boosting and Weak Learners
 

@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 35 and why they'll be important to you as a data scientist.
+In this section, you'll learn about some of the most powerful machine learning algorithms, ensemble models! This lesson summarizes the topics we'll be covering in this section.
 
 ## Objectives
 You will be able to:
@@ -11,7 +11,7 @@ You will be able to:
 
 ## Ensemble Methods
 
-The idea of ensemble methods is to bring together multiple models to use them to improve the quality of your predictions when compared to just using a single model. In many real world problems and kaggle competitions, ensemble methods tend to outperform any single model.
+The idea of ensemble methods is to bring together multiple models to use them to improve the quality of your predictions when compared to just using a single model. In many real world problems and Kaggle competitions, ensemble methods tend to outperform any single model.
 
 ### Ensemble Methods
 
@@ -40,5 +40,5 @@ We then round out the section by introducing XGBoost (eXtreme Gradient Boosting)
 
 ## Summary
 
-You will often find youself using a range of ensemble techniques to improve the performance of your models, so this section will provide you with experience with techniques that will help you to improve the quality of your modeling.
+You will often find yourself using a range of ensemble techniques to improve the performance of your models, so this section will provide you with experience with techniques that will help you to improve the quality of your modeling.
 

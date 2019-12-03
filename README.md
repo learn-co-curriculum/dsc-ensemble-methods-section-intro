@@ -1,17 +1,15 @@
 
-# Introduction
+# Ensembles - Introduction
 
-## Introduction
+
+## Introduction 
+
 In this section, you'll learn about some of the most powerful machine learning algorithms, ensemble models! This lesson summarizes the topics we'll be covering in this section.
 
-## Objectives
-You will be able to:
-* Understand and explain what is covered in this section
-* Understand and explain why the section will help you to become a data scientist
 
-## Ensemble Methods
+## Ensembles
 
-The idea of ensemble methods is to bring together multiple models to use them to improve the quality of your predictions when compared to just using a single model. In many real world problems and Kaggle competitions, ensemble methods tend to outperform any single model.
+The idea of ensembles is to bring together multiple models to use them to improve the quality of your predictions when compared to just using a single model. In many real world problems and Kaggle competitions, ensemble methods tend to outperform any single model.
 
 ### Ensemble Methods
 
@@ -25,7 +23,7 @@ We then look at random forests - an ensemble method for decision trees that take
 
 ### GridsearchCV
 
-In the last section we introduced some of the common hyperparameters for tuning a decision tree. In this lesson we look at how you can use GridSearchCV to perform an exhaustive search across multiple hyperparameters and multiple possible values to come up with a better performing model.
+We will also introduced some of the common hyperparameters for tuning decision trees. In this lesson we look at how you can use GridSearchCV to perform an exhaustive search across multiple hyperparameters and multiple possible values to come up with a better performing model.
 
 ### Gradient Boosting and Weak Learners
 
@@ -33,12 +31,9 @@ Next up, we introduce the concept of boosting which is at the heart of some of t
 
 ### XGBoost
 
-We then round out the section by introducing XGBoost (eXtreme Gradient Boosting) - the top gradient boosting algorithm currently in use.
-
-
-
+Finally, we end this section by introducing XGBoost (eXtreme Gradient Boosting) - the top gradient boosting algorithm currently in use.
 
 ## Summary
 
-You will often find yourself using a range of ensemble techniques to improve the performance of your models, so this section will provide you with experience with techniques that will help you to improve the quality of your modeling.
+You will often find yourself using a range of ensemble techniques to improve the performance of your models, so this section will introduce you to the techniques that will help you to improve the quality of your models.
 
